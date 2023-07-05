@@ -1,1 +1,5 @@
 # spotic_token
+
+salestoken - 0x457BF88a30cCD5d6228b18B21B1A3c2e9252237a
+
+spotic - 0x56FbC03B73b4e3C9ec47474EE1Fa91dfC53cca25
